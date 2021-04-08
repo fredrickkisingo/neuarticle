@@ -1,5 +1,5 @@
 ## Neuarticles
-This is a simple  Articles SPA(Single Page Application) that intends to replicate a modern day simple articles web application with full CRUD functionalities.
+This is a simple  Articles SPA(Single Page Application) that intends to replicate a modern day simple article web application with full CRUD(Create Read Update Delete) functionalities built on VueJS and Laravel PHP framework
 
 ### Technologies Used
 
